@@ -17,6 +17,4 @@ The following items were accomplished for this assignment:
  ![Video Walkthrough](InstagramClient.gif)
  
  Gif created with [LiceCap](http://www.cockos.com/licecap/). 
- 
- LiceCap failed on me today. I need to investigate why it captures only the mouse movement.
 
