@@ -13,6 +13,7 @@ The following items were accomplished for this assignment:
  * [x] Optional: Improve the user interface through styling and coloring.
  
  Walkthrough of all user stories:
+
  ![Video Walkthrough](InstagramClient.gif)
  
  Gif created with [LiceCap](http://www.cockos.com/licecap/). 
